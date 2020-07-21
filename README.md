@@ -354,7 +354,7 @@ Lists your most recent Apps Script projects.
 
 ## Advanced Commands
 
-> **NOTE**: These commands require Project ID/credentials setup (see below).
+> **NOTE**: These commands require Project ID/credentials setup ([see below](#projectid-optional)).
 
 ### Logs
 
